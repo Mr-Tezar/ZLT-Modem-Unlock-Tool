@@ -20,7 +20,7 @@ A powerful, fully automated C# terminal tool designed for managing, tweaking, an
 ## 📸 Screenshots
 
 ### Terminal Menu Interface
-![Terminal Interface](https://github.com/Mr-Tezar/ZLT-X28-Free-Automatic-ZLT-X28-Modem-Unlock-Tool/raw/main/screenshots/terminal.jpg)
+![Terminal Interface](https://github.com/Mr-Tezar/ZLT-X28-Free-Automatic-ZLT-X28-Modem-Unlock-Tool/raw/main/screenshots/A1.jpg)
 
 ---
 
