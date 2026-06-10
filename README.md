@@ -8,7 +8,7 @@ A powerful, fully automated C# terminal tool designed for managing, tweaking, an
 
 ## 🚀 Features
 
-* **1-Click Unlock:** Quickly change lock/unlock states for network operators.
+* **1- Unlock:** Quickly change lock/unlock states for network operators.
 * **IMEI Modification:** Built-in tool for changing and recovering IMEI configurations.
 * **Shell Access & SSH:** Easily enable WAN, Shell access, and configure SSH Shell access (`root:admin`).
 * **ADB & AT Commands:** Enable Android Debug Bridge (ADB) and send custom AT commands directly to the modem.
@@ -29,7 +29,7 @@ A powerful, fully automated C# terminal tool designed for managing, tweaking, an
 1. **Prerequisites:** Make sure your computer is connected to the ZLT X28 modem via Ethernet or Wi-Fi.
 2. **Download:** Go to the [Releases](https://github.com/Mr-Tezar/ZLT-X28-Free-Automatic-ZLT-X28-Modem-Unlock-Tool/releases) page and download the latest compiled executable.
 3. **Run:** Execute the application. The script will automatically try to discover the modem IP and establish a connection.
-4. **Select Option:** Use the numbered menu to trigger the desired action (e.g., press `8` for Unlock, `15` for changing IMEI).
+4. **Select Option:** Use the numbered menu to trigger the desired action (e.g., press `10 & 11` for Unlock, `15` for changing IMEI).
 
 ---
 
@@ -37,7 +37,7 @@ A powerful, fully automated C# terminal tool designed for managing, tweaking, an
 
 * **Telegram Channel:** [@zltfile](https://t.me/zltfile)
 * **Developer Telegram:** [@Mr_Tezar_369](https://t.me/Mr_Tezar_369)
-* **YouTube Channel:** [Tsar Tech Channel](https://www.youtube.com/channel/UCKGbwpWzPf1kiyTDiLmMCbg)
+* **YouTube Channel:** [TIHSG Channel](https://www.youtube.com/channel/UCKGbwpWzPf1kiyTDiLmMCbg)
 
 ---
 
