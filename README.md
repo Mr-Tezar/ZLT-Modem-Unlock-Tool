@@ -45,3 +45,8 @@ A powerful, fully automated C# terminal tool designed for managing, tweaking, an
 
 * **100% Free:** This application is completely free for everyone and **cannot be sold**.
 * Any unauthorized copying, commercial distribution, or commercial reuse of this software is strictly prohibited.
+
+* ---
+
+* ## Download Link :
+* https://drive.google.com/drive/folders/1PJtnP1v3CEJjj_9do8_5p4c5a3ywgOuQ?usp=sharing
